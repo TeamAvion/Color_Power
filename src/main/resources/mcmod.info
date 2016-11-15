@@ -19,7 +19,7 @@
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
-}
+},
 {
   "modid": "colorpowerwhite",
   "name": "White Power",
@@ -33,7 +33,7 @@
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
-}
+},
 {
   "modid": "colorpoweryellow",
   "name": "Yellow Power",
@@ -47,7 +47,7 @@
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
-}
+},
 {
   "modid": "colorpowerblue",
   "name": "Blue Power",
@@ -61,7 +61,7 @@
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
-}
+},
 {
   "modid": "colorpowerred",
   "name": "Red Power",
@@ -77,7 +77,7 @@
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
-}
+},
 {
   "modid": "colorpowergreen",
   "name": "Green Power",
@@ -101,7 +101,7 @@
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
-}
+},
 {
   "modid": "colorpowerorange",
   "name": "Orange Power",
@@ -115,5 +115,5 @@
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
-}
+},
 ]

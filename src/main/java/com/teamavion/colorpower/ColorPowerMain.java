@@ -18,7 +18,7 @@ public class ColorPowerMain {
     @Mod.Instance(value = Ref.MODID + "core")
     public static ColorPowerMain instance;
 
-    @SidedProxy(clientSide = "com.teamavion.colorppwer.proxy.ClientProxy", serverSide = "com.teamavion.colorppwer.proxy.ServerProxy")
+    @SidedProxy(clientSide = "com.teamavion.colorpower.proxy.ClientProxy", serverSide = "com.teamavion.colorpower.proxy.ServerProxy")
     public static CommonProxy proxy;
 
     @EventHandler

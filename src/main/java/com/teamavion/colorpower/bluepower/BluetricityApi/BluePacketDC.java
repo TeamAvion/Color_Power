@@ -1,8 +1,5 @@
 package com.teamavion.colorpower.bluepower.BluetricityApi;
 
-/**
- * Created by Tjken on 11/9/2016.
- */
 public class BluePacketDC {
 
     public static final int[] voltage = {10,100,1000};

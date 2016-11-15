@@ -8,10 +8,6 @@ import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
-/**
- * Created by Tjken on 11/9/2016.
- */
-
 @Mod(modid = Ref.MODID + "blue", version = Ref.VERSION)
 
 public class ColorPowerBlue {

@@ -1,0 +1,119 @@
+[
+{
+  "modid": "colorpowercore",
+  "name": "Color Power Core",
+  "description": "The Brain of Color Power",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TjKenMate"],
+  "credits": "Team Avion and The People over on MMD, and lots of brain power
+  \n ARE YOU READY AY-AY-AYAYAYAYAYAYAY...
+  \n ADRENALINE IS PUMPING x 2
+  \n GENERATOR, AUTOMATIC LOVER
+  \n ATOMIC x2 OVERDRIVE
+  \n BLOCKBUSTER
+  \n BRAIN POWER
+  \n is Too lazy to put the rest in",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+{
+  "modid": "colorpowerwhite",
+  "name": "White Power",
+  "description": "Why White Power, I ask why not",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TjKenMate"],
+  "credits": "Team Avion and The People over on MMD",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+{
+  "modid": "colorpoweryellow",
+  "name": "Yellow Power",
+  "description": "Pipes and Inventories and Sorters, Oh my",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TjKenMate"],
+  "credits": "Team Avion and The People over on MMD",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+{
+  "modid": "colorpowerblue",
+  "name": "Blue Power",
+  "description": "Bluetricity is blue dabodi dabodie",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TjKenMate"],
+  "credits": "Team Avion and The People over on MMD",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+{
+  "modid": "colorpowerred",
+  "name": "Red Power",
+  "description": "Yo Dawg, i heard you like redstone
+   \n So I put redstone in your block
+   \n So you manipulate redstone with redstone",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TjKenMate"],
+  "credits": "Team Avion and The People over on MMD",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+{
+  "modid": "colorpowergreen",
+  "name": "Green Power",
+  "description": "Hmm, I got no meme for this one
+  \n It allows you to manipulate green things
+  \n You know plants
+  \n and things.
+  \n You know whats green and a plant?
+  \n Weed
+  \n DONT DO IT
+  \n STAHP
+  \n I cant help myself
+  \n 420 Blaze it
+  \n SMOKE WEED EVERYDAY",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TjKenMate"],
+  "credits": "Team Avion and The People over on MMD",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+{
+  "modid": "colorpowerorange",
+  "name": "Orange Power",
+  "description": "Allow you to manipulate heat and liquids, like Lava. Lava is orange right so it counts? Give me a free pass on this one",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TjKenMate"],
+  "credits": "Team Avion and The People over on MMD",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
